@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import React from "react";
-import { Image } from "next/image";
 import ChooseFoods from "@/components/CardsChooseFoods";
 import TitleSection from "@/components/TitleSection";
 

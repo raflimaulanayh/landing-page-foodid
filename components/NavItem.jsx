@@ -3,7 +3,7 @@ import React from "react";
 const NavItem = ({ dir }) => {
   const dirs = {
     horizontal: "space-x-6 lg:space-x-10",
-    vertikal: "flex-col p-10 space-y-6",
+    vertikal: "flex-col pl-10 space-y-6",
   };
 
   const pickedDir = dirs[dir];

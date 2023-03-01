@@ -21,7 +21,7 @@ const Navbar = ({ className }) => {
         <div className="hidden md:flex w-4/12 md:w-6/12 justify-around">
           <NavItem dir="horizontal" />
         </div>
-        <div className="w-6/12 md:w-5/12 flex justify-center md:justify-end items-center">
+        <div className="w-7/12 md:w-5/12 flex justify-center md:justify-end items-center">
           <Link href="/">
             <div className="h-[35px] w-[35px] md:h-[50px] md:w-[50px] p-1 bg-white hover:bg-gray-300 rounded-full flex items-center justify-center mr-4 lg:mr-7">
               <AiOutlineSearch size={30} className="text-[#677487]" />
@@ -45,7 +45,7 @@ const Navbar = ({ className }) => {
         </div>
         <div
           onClick={() => setToggle(true)}
-          className="w-2/12 flex md:hidden justify-end cursor-pointer"
+          className="w-1/12 flex md:hidden justify-end cursor-pointer"
         >
           <HiOutlineMenuAlt4 size={35} />
         </div>

@@ -1,8 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 import React from "react";
-import { BsArrowRight, BsFillBasket2Fill } from "react-icons/bs";
-import { AiOutlineSearch } from "react-icons/ai";
+import { BsArrowRight } from "react-icons/bs";
 import Navbar from "@/components/Navbar";
 
 const Header = () => {

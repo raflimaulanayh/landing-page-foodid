@@ -106,7 +106,7 @@ const RegularFoods = () => {
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/Karedok.png"
+              imgFoodsFavorite="/assets/karedok.png"
               titleFavoriteFoods="Karedok"
               descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
               hargaFavoriteFoods="Rp 10.000"
