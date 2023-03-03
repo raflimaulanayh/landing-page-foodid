@@ -45,7 +45,7 @@ const Footer = () => {
               />
               <button
                 type="submit"
-                className="cursor-pointer my-7 mr-36 bg-[#84B750] hover:bg-opacity-80 py-3 px-4 rounded-lg border-0 text-white font-semibold text-lg"
+                className="cursor-pointer my-7 mr-36 bg-[#84B750] hover:bg-opacity-80 py-3 px-4 rounded-lg border-0 text-white font-semibold text-lg z-10"
               >
                 Subscribe
               </button>
@@ -58,7 +58,7 @@ const Footer = () => {
         <img
           src="/assets/shape-footer-right.png"
           alt=""
-          className="hidden sm:flex justify-end"
+          className="hidden sm:flex justify-end -z-10"
         />
       </div>
     </footer>

@@ -3,15 +3,15 @@ import Image from "next/image";
 import Link from "next/link";
 
 const CardsRegularFoods = ({
-  imgFoodsFavorite,
-  titleFavoriteFoods,
-  descFavoriteFoods,
-  hargaFavoriteFoods,
+  imgFoodsRegular,
+  titleRegularFoods,
+  descRegularFoods,
+  hargaRegularFoods,
 }) => {
   return (
     <div className="py-24 px-5 md:px-10 lg:px-2 flex mx-auto items-center justify-center">
       <Image
-        src={imgFoodsFavorite}
+        src={imgFoodsRegular}
         alt=""
         width={260}
         height={260}
@@ -19,15 +19,15 @@ const CardsRegularFoods = ({
       />
       <div className="w-full h-[400px] bg-white shadow-xl rounded-lg flex flex-col items-center px-5 lg:px-10 xl:px-0">
         <h2 className=" text-black text-2xl font-bold mt-48">
-          {titleFavoriteFoods}
+          {titleRegularFoods}
         </h2>
         <p className="text-center mt-3 text-lg text-gray-500">
-          {descFavoriteFoods}
+          {descRegularFoods}
         </p>
         <div className="flex pt-3">
           <Link href="/">
             <div className="py-2 px-4 rounded-full border border-gray-500 mr-4 text-gray-700">
-              {hargaFavoriteFoods}
+              {hargaRegularFoods}
             </div>
           </Link>
           <Link href="/">

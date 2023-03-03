@@ -14,9 +14,11 @@ const Navbar = ({ className }) => {
     <>
       <nav className="fixed flex px-5 lg:px-16 2xl:px-32 py-5 md:py-7 w-full z-30 items-center top-0 bg-white/80 backdrop-blur-sm shadow-lg">
         <div className="w-4/12 md:w-3/12">
-          <h1 className="uppercase text-2xl md:text-3xl font-semibold">
-            food<span className="text-[#DD1A1A]">id</span>
-          </h1>
+          <Link href="https://raflisky.github.io" target="_blank">
+            <h1 className="uppercase text-2xl md:text-3xl font-semibold cursor-pointer">
+              food<span className="text-[#DD1A1A]">id</span>
+            </h1>
+          </Link>
         </div>
         <div className="hidden md:flex w-4/12 md:w-6/12 justify-around">
           <NavItem dir="horizontal" />

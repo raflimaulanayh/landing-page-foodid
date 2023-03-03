@@ -3,7 +3,7 @@ import CardsFavoriteFoods from "@/components/CardsFavoriteFoods";
 
 const FavoriteFoods = () => {
   return (
-    <section className="container mx-auto py-24 md:py-36 xl:pt-24 0 2xl:pt-96">
+    <section className="container mx-auto py-24 md:py-36 xl:pt-24 2xl:pt-96">
       <div className="flex flex-wrap">
         <CardsFavoriteFoods
           imgFavoriteFood="/assets/ikan-pindang.png"

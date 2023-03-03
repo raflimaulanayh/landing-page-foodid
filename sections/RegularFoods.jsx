@@ -23,42 +23,42 @@ const RegularFoods = () => {
         >
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/pepes-tahu.png"
-              titleFavoriteFoods="Pepes Tahu"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 7.000"
+              imgFoodsRegular="/assets/pepes-tahu.png"
+              titleRegularFoods="Pepes Tahu"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 7.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ayam-bekakak.png"
-              titleFavoriteFoods="Ayam Bekakak"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 40.000"
+              imgFoodsRegular="/assets/ayam-bekakak.png"
+              titleRegularFoods="Ayam Bekakak"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 40.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ikan-pesmol.png"
-              titleFavoriteFoods="Ikan Pesmol"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 25.000"
+              imgFoodsRegular="/assets/ikan-pesmol.png"
+              titleRegularFoods="Ikan Pesmol"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 25.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/kue-awug.png"
-              titleFavoriteFoods="Kue Awug"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 10.000"
+              imgFoodsRegular="/assets/kue-awug.png"
+              titleRegularFoods="Kue Awug"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 10.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/cilok.png"
-              titleFavoriteFoods="Cilok Edun"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 7.000"
+              imgFoodsRegular="/assets/cilok.png"
+              titleRegularFoods="Cilok Edun"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 7.000"
             />
           </SwiperSlide>
         </Swiper>
@@ -74,42 +74,42 @@ const RegularFoods = () => {
         >
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/tahu-sumedang.png"
-              titleFavoriteFoods="Tahu Sumedang"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 15.000"
+              imgFoodsRegular="/assets/tahu-sumedang.png"
+              titleRegularFoods="Tahu Sumedang"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 15.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/kue-awug.png"
-              titleFavoriteFoods="Kue Awug"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 10.000"
+              imgFoodsRegular="/assets/kue-awug.png"
+              titleRegularFoods="Kue Awug"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 10.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/cilok.png"
-              titleFavoriteFoods="Cilok Edun"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 7.000"
+              imgFoodsRegular="/assets/cilok.png"
+              titleRegularFoods="Cilok Edun"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 7.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ikan-pindang.png"
-              titleFavoriteFoods="Mantan"
-              descFavoriteFoods="Menu Special"
-              hargaFavoriteFoods="Rp 9.999"
+              imgFoodsRegular="/assets/ikan-pindang.png"
+              titleRegularFoods="Mantan"
+              descRegularFoods="Menu Special"
+              hargaRegularFoods="Rp 9.999"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/karedok.png"
-              titleFavoriteFoods="Karedok"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 10.000"
+              imgFoodsRegular="/assets/karedok.png"
+              titleRegularFoods="Karedok"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 10.000"
             />
           </SwiperSlide>
         </Swiper>
@@ -125,50 +125,50 @@ const RegularFoods = () => {
         >
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/pepes-tahu.png"
-              titleFavoriteFoods="Pepes Tahu"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 7.000"
+              imgFoodsRegular="/assets/pepes-tahu.png"
+              titleRegularFoods="Pepes Tahu"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 7.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ayam-bekakak.png"
-              titleFavoriteFoods="Ayam Bekakak"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 40.000"
+              imgFoodsRegular="/assets/ayam-bekakak.png"
+              titleRegularFoods="Ayam Bekakak"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 40.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ikan-pesmol.png"
-              titleFavoriteFoods="Ikan Pesmol"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 25.000"
+              imgFoodsRegular="/assets/ikan-pesmol.png"
+              titleRegularFoods="Ikan Pesmol"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 25.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/sambel-pencok.png"
-              titleFavoriteFoods="Sambel Pencok"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 5.000"
+              imgFoodsRegular="/assets/sambel-pencok.png"
+              titleRegularFoods="Sambel Pencok"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 5.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/nasi-liwet.png"
-              titleFavoriteFoods="Nasi Liwet"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 37.000"
+              imgFoodsRegular="/assets/nasi-liwet.png"
+              titleRegularFoods="Nasi Liwet"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 37.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/tutug-oncom.png"
-              titleFavoriteFoods="Nasi Tutug Oncom"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 12.500"
+              imgFoodsRegular="/assets/tutug-oncom.png"
+              titleRegularFoods="Nasi Tutug Oncom"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 12.500"
             />
           </SwiperSlide>
         </Swiper>
@@ -184,50 +184,50 @@ const RegularFoods = () => {
         >
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/tahu-sumedang.png"
-              titleFavoriteFoods="Tahu Sumedang"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 15.000"
+              imgFoodsRegular="/assets/tahu-sumedang.png"
+              titleRegularFoods="Tahu Sumedang"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 15.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/kue-awug.png"
-              titleFavoriteFoods="Kue Awug"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 10.000"
+              imgFoodsRegular="/assets/kue-awug.png"
+              titleRegularFoods="Kue Awug"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 10.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/cilok.png"
-              titleFavoriteFoods="Cilok Edun"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 7.000"
+              imgFoodsRegular="/assets/cilok.png"
+              titleRegularFoods="Cilok Edun"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 7.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/nasi-liwet.png"
-              titleFavoriteFoods="Nasi Liwet"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 37.000"
+              imgFoodsRegular="/assets/nasi-liwet.png"
+              titleRegularFoods="Nasi Liwet"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 37.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/ikan-pindang.png"
-              titleFavoriteFoods="Ikan Pindang"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 13.000"
+              imgFoodsRegular="/assets/ikan-pindang.png"
+              titleRegularFoods="Ikan Pindang"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 13.000"
             />
           </SwiperSlide>
           <SwiperSlide>
             <CardsRegularFoods
-              imgFoodsFavorite="/assets/tahu-sumedang.png"
-              titleFavoriteFoods="Tahu Sumedang"
-              descFavoriteFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
-              hargaFavoriteFoods="Rp 15.000"
+              imgFoodsRegular="/assets/tahu-sumedang.png"
+              titleRegularFoods="Tahu Sumedang"
+              descRegularFoods="Lorem ipsum dolor sit amet consectetur. Sollicitudin"
+              hargaRegularFoods="Rp 15.000"
             />
           </SwiperSlide>
         </Swiper>

@@ -9,21 +9,26 @@ const Header = () => {
     <div className="h-full top-0">
       <img
         src="/assets/bg-hero.png"
-        alt=""
-        className="absolute -z-10 object-cover"
+        alt="bg-hero"
+        className="hidden sm:flex absolute -z-10 object-cover"
+      />
+      <img
+        src="/assets/bg-hero-sm.png"
+        alt="bg-hero"
+        className="sm:hidden absolute -z-10 object-cover"
       />
       <Navbar />
       <header id="home" className="container mx-auto">
-        <div className="px-5 md:px-10 pt-36 sm:pt-48 xl:pt-64">
+        <div className="px-5 md:px-10 pt-36 md:pt-48 xl:pt-64">
           <Link href="/">
             <span className="py-2 px-5 border border-gray-700 font-semibold rounded-full">
               Hungry?
             </span>
           </Link>
-          <h1 className="pt-8 lg:pt-14 text-4xl md:text-5xl lg:text-7xl font-semibold w-full sm:w-7/12 xl:w-6/12">
+          <h1 className="pt-8 lg:pt-14 text-3xl sm:text-5xl lg:text-7xl font-semibold w-8/12 sm:w-9/12 xl:w-6/12">
             JUST COME TO FOODIED & ORDER
           </h1>
-          <p className="pt-5 lg:pt-12 text-xl text-gray-500 w-full md:w-6/12">
+          <p className="pt-1 lg:pt-12 text-lg text-gray-500 w-8/12 md:w-8/12">
             Lorem ipsum dolor sit amet consectetur. Lectus sit mauris velit
             tellus ullamcorper neque ultrices id neque.
           </p>
