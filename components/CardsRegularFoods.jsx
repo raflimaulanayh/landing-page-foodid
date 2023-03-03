@@ -26,12 +26,12 @@ const CardsRegularFoods = ({
         </p>
         <div className="flex pt-3">
           <Link href="/">
-            <div className="py-2 px-4 rounded-full border border-gray-500 mr-4 text-gray-700">
+            <div className="py-2 px-4 rounded-full border border-gray-500 mr-4 text-gray-700 font-medium">
               {hargaRegularFoods}
             </div>
           </Link>
           <Link href="/">
-            <div className="py-2 px-4 rounded-full border border-[#84B750] bg-[#84B750] text-white">
+            <div className="py-2 px-4 rounded-full border border-[#84B750] bg-[#84B750] text-white font-medium">
               Buy Now
             </div>
           </Link>

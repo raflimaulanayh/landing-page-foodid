@@ -26,12 +26,12 @@ const CardsFavoriteFoods = ({
         </p>
         <div className="flex mt-3">
           <Link href="#">
-            <div className="py-2 px-4 rounded-full border border-gray-500 mr-4 text-gray-700">
+            <div className="py-2 px-4 rounded-full border border-gray-500 mr-4 text-gray-700 font-medium">
               {priceFavoriteFood}
             </div>
           </Link>
           <Link href="#">
-            <div className="py-2 px-4 rounded-full bg-[#84B750] text-white">
+            <div className="py-2 px-4 rounded-full bg-[#84B750] text-white font-medium">
               Buy Now
             </div>
           </Link>
