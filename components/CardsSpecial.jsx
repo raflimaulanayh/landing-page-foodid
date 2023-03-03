@@ -26,9 +26,9 @@ const CardsSpecial = ({
           <Image
             src={imgRating}
             alt={titleSpecialMenu}
-            width={140}
-            height={140}
-            className="sm:m-7 mr-2"
+            width={100}
+            height={100}
+            className="sm:ml-7 sm:my-7 mr-2"
           />
           <p>(190)</p>
         </div>
