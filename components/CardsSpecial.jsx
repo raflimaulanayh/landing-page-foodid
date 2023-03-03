@@ -10,7 +10,7 @@ const CardsSpecial = ({
   imgRating,
 }) => {
   return (
-    <div className="pb-16 pt-36 px-5 md:px-10 lg:px-2 flex items-center">
+    <div className="py-36 px-10 lg:px-2 flex items-center">
       <Image
         src={imgSpecialMenu}
         alt=""
@@ -38,7 +38,7 @@ const CardsSpecial = ({
               Rp {hargaSpecialMenu}
             </p>
             <Link href="/">
-              <div className="px-5 py-7 sm:px-7 sm:py-9 rounded-lg border border-[#84B750] bg-[#84B750] text-white absolute right-4 sm:right-6 lg:right-2 bottom-36">
+              <div className="px-5 py-7 sm:px-7 sm:py-9 rounded-lg border border-[#84B750] bg-[#84B750] text-white absolute right-10 sm:right-10 lg:right-2 bottom-36">
                 <BsFillBasket2Fill size={50} />
               </div>
             </Link>

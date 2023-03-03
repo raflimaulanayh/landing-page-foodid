@@ -34,7 +34,7 @@ const Navbar = ({ className }) => {
               <BsFillBasket2Fill size={30} className="text-[#677487]" />
             </div>
           </Link>
-          <Link href="/">
+          <Link href="https://raflisky.github.io">
             <div className="md:hidden h-[35px] w-[35px] md:h-[50px] md:w-[50px] p-1 bg-white hover:bg-gray-300 rounded-full flex items-center justify-center mr-4">
               <AiOutlineLogin size={30} className="text-[#677487]" />
             </div>

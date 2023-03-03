@@ -20,11 +20,11 @@ const Header = () => {
       <Navbar />
       <header id="home" className="container mx-auto">
         <div className="px-5 md:px-10 pt-36 md:pt-48 xl:pt-64">
-          <Link href="/">
+          <a href="#menu">
             <span className="py-2 px-5 border border-gray-700 font-semibold rounded-full">
               Hungry?
             </span>
-          </Link>
+          </a>
           <h1 className="pt-8 lg:pt-14 text-3xl sm:text-5xl lg:text-7xl font-semibold w-8/12 sm:w-9/12 xl:w-6/12">
             JUST COME TO FOODIED & ORDER
           </h1>
@@ -33,17 +33,17 @@ const Header = () => {
             tellus ullamcorper neque ultrices id neque.
           </p>
           <div className="pt-7 lg:pt-12 flex items-center justify-arround">
-            <Link href="/">
+            <a href="#menu">
               <span className="py-3 px-5 sm:py-4 sm:px-10 bg-[#85B84E] hover:bg-opacity-80 rounded-full text-lg font-semibold text-white mr-5">
                 Order Now
               </span>
-            </Link>
-            <Link href="/">
+            </a>
+            <a href="#menu">
               <div className="py-2 px-4 md:py-3 md:px-6 border border-gray-600 rounded-full text-lg font-semibold text-gray-800 flex items-center">
                 <p className="mr-1 sm:mr-2">Buy Now</p>
                 <BsArrowRight />
               </div>
-            </Link>
+            </a>
           </div>
         </div>
       </header>
