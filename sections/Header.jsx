@@ -32,7 +32,7 @@ const Header = () => {
             Lorem ipsum dolor sit amet consectetur. Lectus sit mauris velit
             tellus ullamcorper neque ultrices id neque.
           </p>
-          <div className="pt-7 lg:pt-12 flex items-center justify-arround">
+          <div className="pt-7 lg:pt-12 flex flex-wrap items-center justify-arround">
             <a href="#menu">
               <span className="py-3 px-5 sm:py-4 sm:px-10 bg-[#85B84E] hover:bg-opacity-80 rounded-full text-lg font-semibold text-white mr-5">
                 Order Now

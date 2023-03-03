@@ -33,7 +33,7 @@ const Footer = () => {
               <ListMenuFooter urlListFooter="/" children="43764, Sundanese" />
             </div>
           </div>
-          <div className="w-11/12 lg:w-3/12 flex flex-wrap">
+          <div className="w-10/12 lg:w-3/12 flex flex-wrap">
             <div className="flex flex-col justify-center">
               <h4 className="text-5xl sm:text-5xl font-semibold mt-10 sm:mt-0 mb-10">
                 Subscribe our newsletter
@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="flex justify-between bottom-0 absolute w-full">
-        <img src="/assets/shape-footer-left.png" alt="" className="" />
+        <img src="/assets/shape-footer-left.png" alt="" className="-z-10" />
         <img
           src="/assets/shape-footer-right.png"
           alt=""
