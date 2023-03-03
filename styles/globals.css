@@ -11,5 +11,5 @@ html {
 }
 
 body {
-    font-family: Poppins;
+    @apply font-poppins;
 }

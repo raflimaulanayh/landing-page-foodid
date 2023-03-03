@@ -28,7 +28,7 @@ const Header = () => {
           <h1 className="pt-8 lg:pt-14 text-3xl sm:text-5xl lg:text-7xl font-semibold w-8/12 sm:w-9/12 xl:w-6/12">
             JUST COME TO FOODIED & ORDER
           </h1>
-          <p className="pt-1 lg:pt-12 text-lg text-gray-500 w-8/12 md:w-8/12">
+          <p className="pt-1 lg:pt-12 text-lg text-gray-500 w-8/12 md:w-8/12 xl:w-6/12">
             Lorem ipsum dolor sit amet consectetur. Lectus sit mauris velit
             tellus ullamcorper neque ultrices id neque.
           </p>

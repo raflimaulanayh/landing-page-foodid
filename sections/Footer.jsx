@@ -33,7 +33,7 @@ const Footer = () => {
               <ListMenuFooter urlListFooter="/" children="43764, Sundanese" />
             </div>
           </div>
-          <div className="w-full lg:w-3/12 flex flex-wrap">
+          <div className="w-11/12 lg:w-3/12 flex flex-wrap">
             <div className="flex flex-col justify-center">
               <h4 className="text-5xl sm:text-5xl font-semibold mt-10 sm:mt-0 mb-10">
                 Subscribe our newsletter
