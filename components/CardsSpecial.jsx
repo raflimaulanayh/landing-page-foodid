@@ -10,7 +10,7 @@ const CardsSpecial = ({
   imgRating,
 }) => {
   return (
-    <div className="py-36 px-5 md:px-10 lg:px-2 flex items-center">
+    <div className="pb-16 pt-36 px-5 md:px-10 lg:px-2 flex items-center">
       <Image
         src={imgSpecialMenu}
         alt=""

@@ -9,7 +9,7 @@ const CardsRegularFoods = ({
   hargaRegularFoods,
 }) => {
   return (
-    <div className="py-24 px-5 md:px-10 lg:px-2 flex mx-auto items-center justify-center">
+    <div className="pb-16 pt-24 px-5 md:px-10 lg:px-2 flex mx-auto items-center justify-center">
       <Image
         src={imgFoodsRegular}
         alt=""
